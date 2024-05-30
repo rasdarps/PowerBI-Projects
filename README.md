@@ -1,2 +1,2 @@
 # PowerBI-Projects
-This repo contains on my Data Analytics portfolio projects using PowerBI
+This repo contains all my Data Analytics portfolio projects using PowerBI
